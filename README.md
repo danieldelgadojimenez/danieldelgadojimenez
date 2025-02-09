@@ -1,5 +1,5 @@
 <div align="center" href="https://github.com/eldiosx">
-<img src="https://readme-typing-svg.demolab.com/?font=Sans-serif&size=40&duration=2000&pause=300&color=F70000&center=true&vCenter=true&lines=About+eldiosx" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Sans-serif&size=40&duration=2000&pause=300&color=F70000&center=true&vCenter=true&lines=About+Daniel Delgado Jiménez" alt="Typing SVG" />
 </div>
 
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://eldiosx.gitlab.io/cv/) 
