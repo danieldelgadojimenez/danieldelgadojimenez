@@ -2,6 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Sans-serif&size=40&duration=2000&pause=300&color=F751E6FF&center=true&vCenter=true&lines=About+Daniel" alt="Typing SVG" />
 </div>
 
+# My main activity is on [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/eldiosx/)
+
 [![CV](https://img.shields.io/badge/Curriculum%20Vitae-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://eldiosx.gitlab.io/cv/) 
 
 <div>
